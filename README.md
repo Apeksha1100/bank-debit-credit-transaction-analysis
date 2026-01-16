@@ -194,7 +194,7 @@ The dashboard acts as a **single source of truth for debit–credit transaction 
 **Apeksha Sonawane**
 Aspiring Data Analyst | SQL | Tableau | Business Analytics
 
-⭐ *If you find this project useful, please consider starring the repository — it helps recruiters notice your work!*
+⭐ *If you find this project useful, please consider starring the repository — it helps recruiters notice my work!*
 
 ---
 
