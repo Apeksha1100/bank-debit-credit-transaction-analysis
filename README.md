@@ -187,6 +187,9 @@ The dashboard acts as a **single source of truth for debit–credit transaction 
 📂 **Tableau Workbook:**
 *https://public.tableau.com/app/profile/apeksha.sonawane/viz/Projectbankanalytics_17681143735720/Dashboard1*
 
+📂 **Tableau File & SQL Scripts:**
+*https://drive.google.com/drive/folders/1TNEf7tX4upG4lphm3KWlcTpRdSWOj5le?usp=drive_link*
+
 ---
 
 ## 👤 Author
