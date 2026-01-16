@@ -178,7 +178,7 @@ The dashboard acts as a **single source of truth for debit–credit transaction 
 
 ### 🔹 Tableau Dashboard Overview
 
- *![Tableau Dashboard](bank-debit-credit-dashboard.png)*
+ *![Tableau Dashboard](bank-debit-credit-transaction-dashboard.png)*
 
 ---
 
